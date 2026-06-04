@@ -24,9 +24,9 @@ The exercises cover SQL concepts such as:
 
 ---
 
-# Samlpe DataSet
+# Sample DataSet
 
-## Crete Table:
+## Create Table:
 ### Code:
 ```
 
